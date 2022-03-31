@@ -1,7 +1,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-    <image src="images/OctagonLogo.png" width="200" height="200" ></image>
+    <image src="assets/OctagonLogo.png" width="200" height="200" ></image>
     <h3 align="center">OCTAGON</h3>
     <p align="center">
         A Golang way to download all your polygon.io data
