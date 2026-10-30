@@ -1,2 +1,4 @@
 .idea/
 
+# Local secrets (never commit)
+config.ini
